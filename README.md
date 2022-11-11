@@ -1,6 +1,6 @@
 # IATI Studio
 
-![Iamage](https://github.com/Humanitarian-AI/IATIStudio/blob/main/sample_xml.png)
+![Iamage](https://github.com/Humanitarian-AI/IATIStudio/blob/main/sample_xml_speaker.png)
 
 **IATI Studio** is an initiative launched by the Humanitarian AI Meetup community to help nonprofits and their supporters channel information on activities, transactions and results through open data sharing frameworks like **IATI**, making the information accessible to emerging artificial intelligent applications and virtual assistants like Siri and Alexa. 
  
