@@ -16,4 +16,4 @@ IATI Studio is a nonprofit digital content curation studio. It concentrates on h
 
 ## Get in Touch
 
-Basic studio services are free to nonprofits and donors. To learn more the initiative and about the studio's range of basic and paid services, email: **team** (at) **humanitarianai.org**.
+Basic studio services are free to nonprofits and donors. To learn more about the initiative and about the studio's range of basic and paid services, email: **team** (at) **humanitarianai.org**.
