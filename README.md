@@ -12,7 +12,7 @@ In the AI Age, nonprofits and their supporters need to understand how artificial
 
 ## IATI Studio
 
-IATI Studio is a nonprofit digital content curation studio. It concentrates on helping nonprofits and their supporters get acquainted with IATI, publish their first IATI XML files and curate their digital information streams exposed to intelligent question answering applications. The studio works towards "helping create a future where people involved in humanitarian situations have access to the data they need, when and how they need it, to make responsible and informed decisions" which is a prime United Nations goal and something that's valuable to nonprofits and donors alike.
+IATI Studio is a nonprofit digital content curation studio. It concentrates on helping nonprofits and their supporters get acquainted with IATI, publish their first IATI XML files and curate their digital information streams exposed to question answering applications. The studio works towards "helping create a future where people involved in humanitarian situations have access to the data they need, when and how they need it, to make responsible and informed decisions" which is a prime United Nations goal and something that's valuable to nonprofits and donors alike.
 
 ## Get in Touch
 
