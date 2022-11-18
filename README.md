@@ -6,7 +6,7 @@ Virtual assistants like **Siri** and **Alexa** rely on detailed, highly structur
 
 ## Data Curation in the AI Age
 
-Nonprofit staff have become proficient in leveraging social media channels to engage and inform others. Narrative control over information is shifting however as virtual assistants become part of our everyday lives. Smart devices, chatboys and other intelligent applications are becoming narrators themselves and supplanting humans in curating what we learn about. Today information is increasingly being synthesized from aggregated data and this information is being disseminated through human-machine interactions that are growing more common.
+Nonprofit staff have become proficient in leveraging social media channels to engage and inform others. Narrative control over information is shifting however as virtual assistants become part of our everyday lives. Smart devices, chatbots and other intelligent applications are becoming narrators themselves and supplanting humans in curating what we learn about. Today information is increasingly being synthesized from aggregated data and this information is being disseminated through human-machine interactions that are growing more common.
 
 In the AI Age, nonprofits and their supporters need to understand how artificial applications generate answers to queries and how to curate and channel the **right information** through the **right data sharing frameworks** to consistently get the **right message** across.
 
